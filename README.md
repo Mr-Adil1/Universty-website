@@ -1,1 +1,1 @@
-link : https://mrdeveloperr.github.io/Universty-website/
+link : https://mr-adil1.github.io/Universty-website/
